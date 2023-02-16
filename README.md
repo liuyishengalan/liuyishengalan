@@ -22,4 +22,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=liuyishengalan&count_private=true&layout=compact&theme=nightowl&bg_color=00000000&include_orgs=true" width="375"/>
   
 </a>
+![Yisheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyishengalan&show_icons=true&theme=transparent)
 
