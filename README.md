@@ -23,3 +23,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-bg6j.vercel.app/api/top-langs/?username=liuyishengalan&langs_count=10&layout=compact&theme=nightowl&bg_color=00000000&include_orgs=true" width="400"/>
 </a>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=liuyishengalan.liuyishengalan)
